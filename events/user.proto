@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/LuisaPerez19/my-app-events/gen/go";
+option go_package = "github.com/LuisaPerez19/my-app-events/events";
 
 package events;
 
